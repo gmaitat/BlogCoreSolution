@@ -1,0 +1,12 @@
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\bin\Debug\net10.0\BlogCoreSolution.Models.deps.json
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\bin\Debug\net10.0\BlogCoreSolution.Models.dll
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\bin\Debug\net10.0\BlogCoreSolution.Models.pdb
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.AssemblyInfoInputs.cache
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.AssemblyInfo.cs
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.csproj.CoreCompileInputs.cache
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.dll
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\refint\BlogCoreSolution.Models.dll
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.pdb
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\ref\BlogCoreSolution.Models.dll
+C:\Users\render2web\Desktop\CursoNETMVC\BlogCoreSolution\BlogCoreSolution.Models\obj\Debug\net10.0\BlogCoreSolution.Models.csproj.AssemblyReference.cache
